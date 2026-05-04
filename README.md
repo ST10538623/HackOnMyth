@@ -40,3 +40,11 @@ Mohale Makhubo
 ##  References
 - Android Developers Documentation
 - Kotlin Documentatio
+
+## Screenshot
+- <img width="1440" height="900" alt="Screenshot 2026-05-05 at 00 37 14" src="https://github.com/user-attachments/assets/ffbc7be4-cc9f-4faf-836d-2db2474a40cc" />
+
+## Sreeen Recording
+- <img width="2241" height="1401" alt="46DED8B8-9D9A-43D4-BEE6-4F26A35DA452_1_102_o" src="https://github.com/user-attachments/assets/bb393bf9-ee90-4bf1-96fd-2a7a0324ce31" />
+
+## Youtube Video
